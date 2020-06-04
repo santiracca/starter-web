@@ -16,6 +16,8 @@ Simple web project
 
 ## How to Contribute
 
+Please fork this respository and then issue Pull Requests for review
+
 ### COPYRIGHT
 
 2018 Git. training
