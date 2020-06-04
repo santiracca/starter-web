@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+<<<<<<< HEAD
+<!-- Adding changes after rebasing conflict -->
+=======
+ <!-- Adding changes before  iothge siuhsuig  -->
+>>>>>>> big-trouble
+
+<head>
+	<title>A great website</title>
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<style>
+		body {
+			padding-top: 50px;
+			padding-bottom: 20px;
+			padding-right: 30px;
+		}
+	</style>
+	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+</head>
+<body>
+	<main class="container">
+	<!-- Content Goes Here -->
+		<p>
+			Im not sure what will go here, it will be cool thought
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; Company 2020</p>
+	</footer>
+</body>
+</html>
