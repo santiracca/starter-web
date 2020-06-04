@@ -15,3 +15,7 @@ As stated above, the main purpose is to provide simple example for git commands
 Simple web project
 
 ## How to Contribute
+
+### COPYRIGHT
+
+2018 Git. training
