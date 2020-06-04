@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Santi Racca santi@racca.com @santiracca
 
 # THANKS
 
